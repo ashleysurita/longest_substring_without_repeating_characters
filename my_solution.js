@@ -14,7 +14,6 @@ function(s) {
                 j++
             }
         }
-        console.log('sub', subStr)
         longestLeng = Math.max(longestLeng, subStr.length)
     }
 
